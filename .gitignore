@@ -1,0 +1,19 @@
+# Ignore build output
+TaskTracker/bin/
+TaskTracker/obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# VS Code settings
+.vscode/
