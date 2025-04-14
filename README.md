@@ -1,5 +1,5 @@
 # CS690-FinalProject
-This project was completed by Russ McCuen.
+This project was completed by Russ McCuen. (WT-WECIB is my work account from which I accidentally pushed. Will be removed by next version.)
 
 # TaskTracker Project
 
