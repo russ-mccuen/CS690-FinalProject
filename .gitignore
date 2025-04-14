@@ -14,6 +14,8 @@ TaskTracker/obj/
 *.pdb
 *.cache
 *.log
+*.zip
+
 
 # VS Code settings
 .vscode/
