@@ -13,7 +13,7 @@ This project is a task manager application that includes functionalities for man
 Due to technical difficulties, automated tests could not be built for this version of the project. However, a separate file containing the test examples has been included in the project for reference.
 
 ### Test File
-You can find the test examples in the `TaskServiceTests.cs` file. These tests are intended to validate the functionality of the `TaskService` class and its methods but were not executed in the current build.
+**You can find the test examples in the `TaskServiceTests.cs` file in the main project folder directly above this README**. These tests are intended to validate the functionality of the `TaskService` class and its methods but were not executed in the current build.
 
 ## How to Run the Project
 1. **Download the ZIP**: To avoid issues with broken tests, download the ZIP file of the repository, which contains the fully functional code excluding the broken tests.
