@@ -1,12 +1,1 @@
-[
-  {
-    "Title": "test program",
-    "DueDate": "2025-04-05T00:00:00",
-    "IsCompleted": true
-  },
-  {
-    "Title": "stuff",
-    "DueDate": "2025-04-06T00:00:00",
-    "IsCompleted": true
-  }
-]
+[{"Title":"test program","DueDate":"2025-04-05T00:00:00","IsCompleted":true,"Description":null,"Priority":null,"Client":null},{"Title":"stuff","DueDate":"2025-04-06T00:00:00","IsCompleted":true,"Description":null,"Priority":null,"Client":null},{"Title":"today","DueDate":"2025-04-14T00:00:00","IsCompleted":true,"Description":null,"Priority":null,"Client":null},{"Title":"tomorrow","DueDate":"2025-04-15T00:00:00","IsCompleted":true,"Description":null,"Priority":null,"Client":null},{"Title":"today","DueDate":"2025-04-14T00:00:00","IsCompleted":true,"Description":null,"Priority":null,"Client":null},{"Title":"tomorrow","DueDate":"2025-04-15T00:00:00","IsCompleted":true,"Description":null,"Priority":null,"Client":null},{"Title":"today","DueDate":"2025-04-14T00:00:00","IsCompleted":true,"Description":"do it","Priority":"high","Client":"x"},{"Title":"yesterday","DueDate":"2025-04-13T00:00:00","IsCompleted":true,"Description":"done","Priority":"high","Client":"x"},{"Title":"do later","DueDate":"2025-04-15T00:00:00","IsCompleted":true,"Description":"later","Priority":"medium","Client":"z"},{"Title":"yesterday","DueDate":"2025-04-13T00:00:00","IsCompleted":true,"Description":"stuff","Priority":"low","Client":"g"},{"Title":"yesterday","DueDate":"2025-04-13T00:00:00","IsCompleted":true,"Description":"h","Priority":"low","Client":"h"}]
